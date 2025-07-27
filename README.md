@@ -1,6 +1,6 @@
 # Movie App
 
-A simple React project to learn web development, HTML, and CSS.
+A simple React project to learn web development, HTML, and tailwind css with React and Appwrite database.
 
 > This project is a simple React webpage built with reference to the [JavaScript Mastery YouTube channel](https://www.youtube.com/watch?v=dCLhUialKPQ&t) and the original source code available at [adrianhajdin/react-movies](https://github.com/adrianhajdin/react-movies/tree/main).
 
